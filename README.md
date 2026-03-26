@@ -1,6 +1,6 @@
 # M5Cardputer Voxel Engine
 
-A voxel engine for the M5Cardputer with dynamic terrain, physics, and interactive menus.
+A WIP voxel engine for the M5Cardputer with dynamic terrain, physics, and interactive menus.
 
 ---
 
